@@ -4,8 +4,6 @@ Gentoo overlay for [Voidstrap](https://github.com/KloBraticc/Voidstrap), a Roblo
 
 ## Gentoo
 
-[Gentoo](https://www.gentoo.org/) ([overlay](https://github.com/Pedrodroks34/voidstrap-overlay))
-
 First, make sure the repository module for `eselect` and Git are installed:
 
 ```console
